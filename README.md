@@ -10,4 +10,4 @@ Busco uma oportunidade de **estágio** na área de dados para aplicar meu conhec
 * **Análise de Dados:** Pandas, NumPy
 * **Visualização:** Power BI
 * **Inteligência Artificial:** LangChain, LLMs
-* **Banco de Dados:** MySQL
+* **Banco de Dados:** SQL/NOSQL
