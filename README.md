@@ -18,6 +18,8 @@ Estudante de **Big Data para Negócios** com foco prático em **Ciência de Dado
 - Construção de Data Warehouses com integração preditiva
 
 ### 💡 Áreas de Interesse
+
+```python
 competencias = {
     "Data Science": ["Machine Learning", "Estatística", "Predição"],
     "Data Engineering": ["ETL", "Pipelines", "SQL Avançado", "Cloud AWS"],
@@ -25,10 +27,11 @@ competencias = {
     "Mercado": ["Finanças Quantitativas", "Business Intelligence"]
 }
 
+````
 </td>
 <td width="40%" valign="top" align="center">
 
-<img width="250" style="border-radius: 50%;" alt="Renato Fausto" src="Renato Fausto" />
+<img width="250" style="border-radius: 50%;" alt="Renato Fausto" src="Renato Fausto.jpeg" />
 
 
 
@@ -50,7 +53,7 @@ def pipeline_de_sucesso():
 ```
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/renato-fausto-21b7122a6/">
+<a href="https://www.linkedin.com/in/renato-fausto-21b7122a6/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
 </a>
 <a href="https://www.google.com/search?q=https://github.com/rfnove">
@@ -146,31 +149,7 @@ def pipeline_de_sucesso():
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
-<div align="center">
-
-## Estatísticas do GitHub
-
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Drfnove%26layout%3Dcompact%26langs_count%3D6%26theme%3Dtokyonight%26border_radius%3D10%26hide_border%3Dtrue%26locale%3Dpt-br"/>
-
-
-
-
-
-> **Nota:** As linguagens mais usadas refletem o código público dos meus repositórios e projetos de estudo prático.
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-<img width="100%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Drfnove%26bg_color%3D1a1b27%26color%3D2ea043%26line%3D2ea043%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue%26custom_title%3D📈%20Gráfico%20de%20Atividades"/>
-</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -309,16 +288,3 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 > **"Em Deus nós confiamos, todos os outros devem trazer dados."**
 > *— W. Edwards Deming*
 
-</div>
-
-
-
-
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D2,5,10%26height%3D100%26section%3Dfooter"/>
-</div>
-
-```
-
-```
