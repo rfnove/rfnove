@@ -20,17 +20,58 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
 
 ---
 
-### 🛠 Toolbox Técnico
+## 🛠 Minhas Ferramentas e Tecnologias
 
+<div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br><strong>NoSQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=scikitlearn" width="65" height="65" alt="Scikit-Learn" />
+      <br><strong>Scikit-Learn</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=powerbi" width="65" height="65" alt="Power BI" />
+      <br><strong>Power BI</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/rfnove/rfnove/main/assets/streamlit_logo.png" width="65" height="65" alt="Streamlit" onerror="this.src='https://skillicons.dev/icons?i=py'"/>
+      <br><strong>Streamlit</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 ### 📫 Vamos nos conectar?
