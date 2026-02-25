@@ -160,7 +160,7 @@ Construção de um DW com modelagem dimensional integrado a um modelo de Machine
 
 Desenvolvimento de modelos de Machine Learning para classificação e ranking de ativos financeiros, auxiliando na tomada de decisão do mercado.
 
-**Stack:** Python • Pandas • Finanças Quantitativas
+**Stack:** Python • Pandas • Scikit-Learn • MLflow
 
 
 
