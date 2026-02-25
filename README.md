@@ -2,70 +2,323 @@
   <img src="banner.png" alt="Banner Renato Fausto" width="100%">
 </p>
 
-# Olá, eu sou o Renato Fausto 👋 
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar grandes volumes de dados em inteligência estratégica, com foco especial no desenvolvimento de modelos de **Machine Learning**.
----
-### 📈 Meu principal projeto até o momento:
-**[Data Warehouse & Churn Prediction: Clínica Odontológica](https://github.com/ds-massuncao/ortodens)**
-* **O Problema:** Centralizar dados dispersos e identificar pacientes com alto risco de abandono do tratamento.
-* **A Solução:** Construção de um **Data Warehouse** com modelagem dimensional (Star Schema) integrado a um modelo de **Machine Learning** que prevê a probabilidade de evasão (Churn).
-* **Tech Stack:** SQL, Python (Pandas, Scikit-Learn), Modelagem de Dados e Power BI.
-* **Impacto:** Permite ações preventivas de fidelização baseadas em dados preditivos, reduzindo a perda de receita da clínica.
----
+## Sobre Mim
+Estudante de **Big Data para Negócios** com foco prático em **Ciência de Dados** e **Machine Learning**. Meu objetivo é transformar grandes volumes de dados em inteligência estratégica, desenvolvendo desde a Engenharia de Dados até modelos preditivos para o mercado financeiro e gestão corporativa.
 
-### 📈 O que estou construindo agora:
-- **Stock Ranking Model:** Desenvolvimento de modelos de ML para classificação e ranking de ativos financeiros.
-- **Data Engineering:** Pipelines para extração e limpeza de dados financeiros via APIs.
+### 🎓 Formação
+- **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 2027)*
 
----
-## 🛠 Minhas Ferramentas e Tecnologias
+### 💼 Foco Atual
+- Em busca de oportunidade como **Estagiário em Dados / Cientista de Dados Jr. / Engenheiro de Dados Jr.**
+- Desenvolvimento de modelos de Machine Learning (Classificação e Ranking de Ativos)
+- Construção de Data Warehouses com integração preditiva
+
+### 💡 Áreas de Interesse
+competencias = {
+    "Data Science": ["Machine Learning", "Estatística", "Predição"],
+    "Data Engineering": ["ETL", "Pipelines", "SQL Avançado", "Cloud AWS"],
+    "Visualização": ["Power BI", "Streamlit", "Dashboards"],
+    "Mercado": ["Finanças Quantitativas", "Business Intelligence"]
+}
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img width="250" style="border-radius: 50%;" alt="Renato Fausto" src="https://www.google.com/search?q=https://github.com/rfnove.png" />
+
+
+
+
+
+```python
+def pipeline_de_sucesso():
+    while buscando_padroes:
+        coletar_dados()
+        limpar_dados()
+        
+    try:
+        treinar_modelo()
+    except Overfitting:
+        ajustar_hiperparametros()
+
+    return "Insights Gerados 🚀"
+
+```
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/renato-fausto-21b7122a6/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/rfnove">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="mailto:renatofausto.ds@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
 
+## Minhas Ferramentas e Tecnologias Favoritas
+
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="65" height="65" alt="Pandas" />
-      <br><strong>Pandas</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scikitlearn" width="65" height="65" alt="Scikit-Learn" />
-      <br><strong>Scikit-Learn</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="65" height="65" alt="Power BI" />
-      <br><strong>Power BI</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+
+
+
+
+<strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas%26theme%3Dlight" width="65" height="65" alt="Pandas" />
+
+
+
+
+<strong>Pandas</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dscikitlearn%26theme%3Dlight" width="65" height="65" alt="Scikit-Learn" />
+
+
+
+
+<strong>Scikit-Learn</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
+
+
+
+
+<strong>PostgreSQL</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/powerbi/F2C811" width="65" height="65" alt="Power BI" />
+
+
+
+
+<strong>Power BI</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
+
+
+
+
+<strong>Git</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
+
+
+
+
+<strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="VS Code" />
+
+
+
+
+<strong>VS Code</strong>
+</td>
+</tr>
 </table>
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-fausto-21b7122a6/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatofausto.ds@gmail.com)
+<div align="center">
+
+## Estatísticas do GitHub
+
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Drfnove%26layout%3Dcompact%26langs_count%3D6%26theme%3Dtokyonight%26border_radius%3D10%26hide_border%3Dtrue%26locale%3Dpt-br"/>
+
+
+
+
+
+> **Nota:** As linguagens mais usadas refletem o código público dos meus repositórios e projetos de estudo prático.
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+<img width="100%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Drfnove%26bg_color%3D1a1b27%26color%3D2ea043%26line%3D2ea043%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue%26custom_title%3D📈%20Gráfico%20de%20Atividades"/>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+
+## Projetos em Destaque
+
+</div>
+
+
+
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🦷 Data Warehouse & Churn Prediction
+
+Construção de um DW com modelagem dimensional integrado a um modelo de Machine Learning que prevê a probabilidade de evasão de pacientes de uma clínica.
+
+**Stack:** Python • SQL • Scikit-Learn • Power BI
+
+
+
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 📊 Stock Ranking Model
+
+Desenvolvimento de modelos de Machine Learning para classificação e ranking de ativos financeiros, auxiliando na tomada de decisão do mercado.
+
+**Stack:** Python • Pandas • Finanças Quantitativas
+
+
+
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<details open>
+<summary><h2 align="center">🗺️ Roadmap de Carreira 2026-2027</h2></summary>
+
+<table align="center" width="95%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 📅 2026
+
+**Foco: Inserção no Mercado & Cloud**
+
+🎯 Conquistar Estágio / Vaga Jr. (Dados)
+
+
+
+
+🎯 Obter certificação **AWS Cloud Practitioner**
+
+
+
+
+🎯 Obter certificação **AWS Data Engineer**
+
+
+
+
+✅ Concluir modelo de Stock Ranking
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 📅 2027
+
+**Foco: Formação & IA**
+
+✅ Concluir curso de Big Data na FATEC
+
+
+
+
+🎯 Obter certificações **AWS de IA**
+
+
+
+
+🎯 Expandir portfólio de Data Science
+
+
+
+
+🎯 Liderar projetos de impacto com dados
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+
+## 📬 Entre em Contato
+
+**Estou sempre aberto para colaborações, networking e novas oportunidades na área de dados!**
+
+<p align="center">
+<a href="mailto:renatofausto.ds@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/renato-fausto-21b7122a6/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/rfnove">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+</a>
+</p>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+
+> **"Em Deus nós confiamos, todos os outros devem trazer dados."**
+> *— W. Edwards Deming*
+
+</div>
+
+
+
+
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D2,5,10%26height%3D100%26section%3Dfooter"/>
+</div>
+
+```
+
+```
