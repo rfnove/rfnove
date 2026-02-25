@@ -1,13 +1,33 @@
-Olá, sou Renato Fausto 👋
+# Olá, eu sou o Renato Fausto 👋 
 
-Estudante de **Big Data** na FATEC e apaixonado por transformar dados em soluções inteligentes. Atualmente, estou focado em aplicar minhas habilidades em projetos práticos, utilizando ferramentas como **Python**, **SQL**, **Power BI**, **LangChain** e **LLMs**.
+Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar grandes volumes de dados em inteligência estratégica, com foco especial no desenvolvimento de modelos de **Machine Learning para o Mercado Financeiro**.
 
-Busco uma oportunidade de **estágio** na área de dados para aplicar meu conhecimento e contribuir com um time inovador.
+---
 
-### Minhas Habilidades
+### 📈 O que estou construindo agora:
+- **Stock Ranking Model:** Desenvolvimento de modelos de ML para classificação e ranking de ativos financeiros.
+- **Financial Dashboards:** Criação de ferramentas de visualização e controle financeiro utilizando **Python + Streamlit**.
+- **Data Engineering:** Pipelines para extração e limpeza de dados financeiros via APIs.
 
-* **Linguagens:** Python, SQL
-* **Análise de Dados:** Pandas, NumPy
-* **Visualização:** Power BI
-* **Inteligência Artificial:** LangChain, LLMs
-* **Banco de Dados:** SQL/NOSQL
+---
+
+### 🛠 Toolbox Técnico
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-CC0000?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) |
+| **Visualização** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) |
+| **Infra/DB** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do Renato](https://github-readme-stats.vercel.app/api?username=rfnove&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnove&layout=compact&theme=radical)
+
+---
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renato-fausto-21b7122a6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatofausto.ds@gmail.com)
