@@ -31,6 +31,10 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
       <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pandas" width="65" height="65" alt="Pandas" />
+      <br><strong>Pandas</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
@@ -65,7 +69,7 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
       <br><strong>VS Code</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/rfnove/rfnove/main/assets/streamlit_logo.png" width="65" height="65" alt="Streamlit" onerror="this.src='https://skillicons.dev/icons?i=py'"/>
+      <img src="https://skillicons.dev/icons?i=py" width="65" height="65" alt="Streamlit" />
       <br><strong>Streamlit</strong>
     </td>
   </tr>
