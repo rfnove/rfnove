@@ -28,11 +28,12 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Renato](https://github-readme-stats.vercel.app/api?username=github.com/rfnove&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/rfnove&layout=compact&theme=radical)
+![Estatísticas do Renato](https://github-readme-stats.vercel.app/api?username=rfnove&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnove&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renato-fausto-21b7122a6)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-fausto-21b7122a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatofausto.ds@gmail.com)
