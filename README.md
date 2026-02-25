@@ -11,7 +11,7 @@ Estudante de **Big Data para Negócios** com foco prático em **Ciência de Dado
 ### 💼 Foco Atual
 - Em busca de oportunidade como **Estagiário em Dados / Cientista de Dados Jr. / Engenheiro de Dados Jr.**
 - Desenvolvimento de modelos de Machine Learning (Classificação e Ranking de Ativos)
-- Construção de Data Warehouses com integração preditiva
+- 🇺🇸 Inglês Técnico (Rumo ao nível B2)
 
 ### 💡 Áreas de Interesse
 
@@ -169,10 +169,8 @@ def pipeline_de_sucesso():
 Construção de um DW com modelagem dimensional integrado a um modelo de Machine Learning que prevê a probabilidade de evasão de pacientes de uma clínica.
 
 **Stack:** Python • SQL • Scikit-Learn • Power BI
-
-
-
-
+<br/>
+[![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/ds-massuncao/ortodens)
 </td>
 <td width="50%" align="center" valign="top">
 
@@ -283,4 +281,11 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 
 > **"Em Deus nós confiamos, todos os outros devem trazer dados."**
 > *— W. Edwards Deming*
+  
+</div>
 
+<br/><br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+</div>
