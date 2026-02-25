@@ -70,71 +70,62 @@ def pipeline_de_sucesso():
 
 <div align="center">
 
-## Minhas Ferramentas e Tecnologias Favoritas
-
-<table align="center">
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-
-
-<strong>Python</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="65" height="65" alt="Pandas" />
-
-
-<strong>Pandas</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="Scikit-Learn" />
-
-
-<strong>Scikit-Learn</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
-
-
-<strong>PostgreSQL</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="65" height="65" alt="Power BI" />
-
-
-<strong>Power BI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
-
-
-<strong>Git</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
-
-
-<strong>GitHub</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="VS Code" />
-
-
-<strong>VS Code</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 <div align="center">
 
+  <h2>Minhas Ferramentas e Tecnologias Favoritas</h2>
+
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>
+        <strong>Python</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="65" height="65" alt="MLflow" />
+        <br>
+        <strong>MLflow</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="Scikit-Learn" />
+        <br>
+        <strong>Scikit-Learn</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
+        <br>
+        <strong>PostgreSQL</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="65" height="65" alt="Power BI" />
+        <br>
+        <strong>Power BI</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
+        <br>
+        <strong>Git</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
+        <br>
+        <strong>GitHub</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="VS Code" />
+        <br>
+        <strong>VS Code</strong>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Linha divisória animada">
+
+</div>
 ## Projetos em Destaque
 
 </div>
