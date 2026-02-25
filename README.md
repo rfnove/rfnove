@@ -39,9 +39,6 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
       <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-      <br><strong>MySQL</strong>
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br><strong>NoSQL</strong>
@@ -68,9 +65,7 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
       <br><strong>VS Code</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="65" height="65" alt="Streamlit" />
-      <br><strong>Streamlit</strong>
+    trong>Streamlit</strong>
     </td>
   </tr>
 </table>
