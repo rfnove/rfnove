@@ -6,7 +6,7 @@
 Estudante de **Big Data para Negócios** com foco prático em **Ciência de Dados** e **Machine Learning**. Meu objetivo é transformar grandes volumes de dados em inteligência estratégica, desenvolvendo desde a Engenharia de Dados até modelos preditivos para o mercado financeiro e gestão corporativa.
 
 ### 🎓 Formação
-- **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 2027)*
+- **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2027)*
 
 ### 💼 Foco Atual
 - Em busca de oportunidade como **Estagiário em Dados / Cientista de Dados Jr. / Engenheiro de Dados Jr.**
