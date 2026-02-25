@@ -27,7 +27,7 @@ competencias = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<img width="250" style="border-radius: 50%;" alt="Renato Fausto" src="Renato Fausto.jpeg" />
+<img width="250" style="border-radius: 50%;" alt="Renato Fausto" src="Renato Fausto11.jpeg" />
 
 
 
