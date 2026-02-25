@@ -18,10 +18,8 @@ Estudante de **Big Data para Negócios** com foco prático em **Ciência de Dado
 ```python
 competencias = {
     "Data Science": ["Machine Learning", "Estatística", "Predição"],
-    "Data Engineering": ["ETL", "Pipelines", "SQL Avançado", "Cloud AWS"],
-    "Visualização": ["Power BI", "Streamlit", "Dashboards"],
-    "Mercado": ["Finanças Quantitativas", "Business Intelligence"]
-}
+    "Data Engineering": ["ETL", "Pipelines", "SQL Avançado"],
+    "Visualização": ["Power BI", "Streamlit", "Dashboards"]
 
 ````
 </td>
