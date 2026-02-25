@@ -52,7 +52,7 @@ def pipeline_de_sucesso():
 <a href="https://www.linkedin.com/in/renato-fausto-21b7122a6/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/rfnove">
+<a href="https://github.com/rfnove">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
 </a>
 <a href="mailto:renatofausto.ds@gmail.com">
@@ -263,10 +263,10 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 <a href="mailto:renatofausto.ds@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/renato-fausto-21b7122a6/">
+<a href="https://www.linkedin.com/in/renato-fausto-21b7122a6/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/rfnove">
+<a href="https://github.com/rfnove">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
 </a>
 </p>
