@@ -26,11 +26,12 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
 | **Infra/DB** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
-
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Renato](https://github-readme-stats.vercel.app/api?username=rfnove&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnove&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rfnove&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Renato" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfnove&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150" />
+</p>
 
 ---
 
