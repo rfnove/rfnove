@@ -1,12 +1,17 @@
 # Olá, eu sou o Renato Fausto 👋 
 
 Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar grandes volumes de dados em inteligência estratégica, com foco especial no desenvolvimento de modelos de **Machine Learning para o Mercado Financeiro**.
-
+---
+### 📈 Meu principal projeto até o momento:
+**[Data Warehouse & Churn Prediction: Clínica Odontológica](https://github.com/ds-massuncao/ortodens)**
+* **O Problema:** Centralizar dados dispersos e identificar pacientes com alto risco de abandono do tratamento.
+* **A Solução:** Construção de um **Data Warehouse** com modelagem dimensional (Star Schema) integrado a um modelo de **Machine Learning** que prevê a probabilidade de evasão (Churn).
+* **Tech Stack:** SQL, Python (Pandas, Scikit-Learn), Modelagem de Dados e Power BI.
+* **Impacto:** Permite ações preventivas de fidelização baseadas em dados preditivos, reduzindo a perda de receita da clínica.
 ---
 
 ### 📈 O que estou construindo agora:
 - **Stock Ranking Model:** Desenvolvimento de modelos de ML para classificação e ranking de ativos financeiros.
-- **Financial Dashboards:** Criação de ferramentas de visualização e controle financeiro utilizando **Python + Streamlit**.
 - **Data Engineering:** Pipelines para extração e limpeza de dados financeiros via APIs.
 
 ---
@@ -23,8 +28,8 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Renato](https://github-readme-stats.vercel.app/api?username=rfnove&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rfnove&layout=compact&theme=radical)
+![Estatísticas do Renato](https://github-readme-stats.vercel.app/api?username=github.com/rfnove&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/rfnove&layout=compact&theme=radical)
 
 ---
 
