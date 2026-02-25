@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner Renato Fausto" width="100%">
-</p>
-
 <table>
 <tr>
 <td width="60%" valign="top">
