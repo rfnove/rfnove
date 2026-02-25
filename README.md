@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Renato Fausto" width="100%">
+</p>
+
 # Olá, eu sou o Renato Fausto 👋 
 
 Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar grandes volumes de dados em inteligência estratégica, com foco especial no desenvolvimento de modelos de **Machine Learning para o Mercado Financeiro**.
