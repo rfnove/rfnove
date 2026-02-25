@@ -126,8 +126,10 @@ def pipeline_de_sucesso():
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Linha divisória animada">
 
 </div>
-## Projetos em Destaque
 
+<div align="center">
+
+##  Projetos em Destaque
 </div>
 
 
@@ -175,7 +177,15 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 
 **Foco: Inserção no Mercado & Cloud**
 
+✅ Concluir modelo de Stock Ranking
+
+
+
+
+
 🎯 Conquistar Estágio / Vaga Jr. (Dados)
+
+
 
 
 
@@ -186,11 +196,6 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 
 
 🎯 Obter certificação **AWS Data Engineer**
-
-
-
-
-✅ Concluir modelo de Stock Ranking
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -204,6 +209,13 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 
 
 
+
+✅ Iniciar Pós-graduação
+
+
+
+
+
 🎯 Obter certificações **AWS de IA**
 
 
@@ -211,6 +223,11 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 
 🎯 Expandir portfólio de Data Science
 
+
+
+
+
+🎯 Cientista de Dados Júnior
 </td>
 </tr>
 </table>
