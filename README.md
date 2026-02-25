@@ -211,11 +211,6 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 
 🎯 Expandir portfólio de Data Science
 
-
-
-
-🎯 Liderar projetos de impacto com dados
-
 </td>
 </tr>
 </table>
