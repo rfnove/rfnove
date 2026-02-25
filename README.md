@@ -22,6 +22,8 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
 
 ## 🛠 Minhas Ferramentas e Tecnologias
 
+## 🛠 Minhas Ferramentas e Tecnologias
+
 <div align="center">
 
 <table align="center">
@@ -31,7 +33,7 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
       <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="65" height="65" alt="Pandas" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
       <br><strong>Pandas</strong>
     </td>
     <td align="center" width="96">
@@ -45,7 +47,7 @@ Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar 
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powerbi" width="65" height="65" alt="Power BI" />
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="65" height="65" alt="Power BI" />
       <br><strong>Power BI</strong>
     </td>
     <td align="center" width="96">
