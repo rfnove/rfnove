@@ -4,7 +4,7 @@
 
 # Olá, eu sou o Renato Fausto 👋 
 
-Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar grandes volumes de dados em inteligência estratégica, com foco especial no desenvolvimento de modelos de **Machine Learning para o Mercado Financeiro**.
+Estudante de **Big Data for Business** na FATEC. Sou apaixonado por transformar grandes volumes de dados em inteligência estratégica, com foco especial no desenvolvimento de modelos de **Machine Learning**.
 ---
 ### 📈 Meu principal projeto até o momento:
 **[Data Warehouse & Churn Prediction: Clínica Odontológica](https://github.com/ds-massuncao/ortodens)**
