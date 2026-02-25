@@ -78,22 +78,16 @@ def pipeline_de_sucesso():
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 
 
-
-
 <strong>Python</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas%26theme%3Dlight" width="65" height="65" alt="Pandas" />
-
-
+<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="65" height="65" alt="Pandas" />
 
 
 <strong>Pandas</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dscikitlearn%26theme%3Dlight" width="65" height="65" alt="Scikit-Learn" />
-
-
+<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="65" alt="Scikit-Learn" />
 
 
 <strong>Scikit-Learn</strong>
@@ -102,16 +96,12 @@ def pipeline_de_sucesso():
 <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
 
 
-
-
 <strong>PostgreSQL</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/powerbi/F2C811" width="65" height="65" alt="Power BI" />
-
-
+<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="65" height="65" alt="Power BI" />
 
 
 <strong>Power BI</strong>
@@ -120,14 +110,10 @@ def pipeline_de_sucesso():
 <img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
 
 
-
-
 <strong>Git</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
-
-
 
 
 <strong>GitHub</strong>
@@ -136,16 +122,12 @@ def pipeline_de_sucesso():
 <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="VS Code" />
 
 
-
-
 <strong>VS Code</strong>
 </td>
 </tr>
 </table>
 
 </div>
-
-
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
