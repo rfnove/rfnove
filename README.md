@@ -143,7 +143,11 @@ Construção de um DW com modelagem dimensional integrado a um modelo de Machine
 
 **Stack:** Python • SQL • Scikit-Learn • Power BI
 <br/>
+
+
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/ds-massuncao/ortodens)
+
+
 </td>
 <td width="50%" align="center" valign="top">
 
@@ -153,7 +157,11 @@ Desenvolvimento de modelos de Machine Learning para classificação e ranking de
 
 **Stack:** Python • Pandas • Scikit-Learn • MLflow
 <br/>
+
+
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/rfnove/Alpha_Quant_Model)
+
+
 </td>
 <td width="50%" align="center" valign="top">
 
