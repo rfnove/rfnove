@@ -151,9 +151,9 @@ Construção de um DW com modelagem dimensional integrado a um modelo de Machine
 </td>
 <td width="50%" align="center" valign="top">
 
-### 📊 Stock Ranking Model
+### 📊 Alpha Quant Model
 
-Desenvolvimento de modelos de Machine Learning para classificação e ranking de ativos financeiros, auxiliando na tomada de decisão do mercado.
+Desenvolvimento de um modelo de Machine Learning para classificar de tendência a médio prazo de ativos financeiros, auxiliando na tomada de decisão do mercado.
 
 **Stack:** Python • Pandas • Scikit-Learn • MLflow
 <br/>
