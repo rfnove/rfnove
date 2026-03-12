@@ -20,22 +20,26 @@ competencias = {
     "Data Science": ["Machine Learning", "Estatística", "Predição"],
     "Data Engineering": ["ETL", "Pipelines", "SQL Avançado"],
     "Visualização": ["Power BI", "Streamlit", "Dashboards"]
+}
 
-````
+```
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="top">
 
-<img width="250" style="border-radius: 50%;" alt="Renato Fausto" src="Renato Fausto2.jpeg" />
-
-
+<p align="center">
+<img width="250" style="border-radius:50%;" src="Renato Fausto2.jpeg"/>
+</p>
 
 
 
 ```python
-while alive:
-    eat()
-    sleep()
-    code()
+while True:
+    collect_data()
+    clean_data()
+    explore_data()
+    build_model()
+    evaluate_model()
+    find_problem()
     repeat()
 
 ```
@@ -180,7 +184,7 @@ Desenvolvimento de um modelo de Machine Learning para classificar de tendência 
 
 **Foco: Inserção no Mercado & Cloud**
 
-✅ Concluir modelo de Stock Ranking
+✅ Aprimorar modelo Alpha Quant Model
 
 
 
