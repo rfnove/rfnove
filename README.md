@@ -10,8 +10,8 @@ Estudante de **Big Data para Negócios** com foco prático em **Ciência de Dado
 
 ### 💼 Foco Atual
 - Em busca de oportunidade como **Estagiário em Dados / Cientista de Dados Jr. / Engenheiro de Dados Jr.**
-- Desenvolvimento de modelos de Machine Learning (Classificação e Ranking de Ativos)
-- 🇺🇸 Inglês Técnico (Rumo ao nível B2)
+- Desenvolvendo competências práticas em Ciência de Dados, desde análise exploratória até modelagem preditiva.
+- 🇺🇸 Inglês Técnico (Rumo ao nível B2).
 
 ### 💡 Áreas de Interesse
 
