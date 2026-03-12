@@ -32,17 +32,11 @@ competencias = {
 
 
 ```python
-def pipeline_de_sucesso():
-    while buscando_padroes:
-        coletar_dados()
-        limpar_dados()
-        
-    try:
-        treinar_modelo()
-    except Overfitting:
-        ajustar_hiperparametros()
-
-    return "Insights Gerados 🚀"
+while alive:
+    eat()
+    sleep()
+    code()
+    repeat()
 
 ```
 
